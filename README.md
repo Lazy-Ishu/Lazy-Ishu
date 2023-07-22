@@ -1,16 +1,12 @@
-### Hi there 👋
+# Namaste! 🙏
+ I'm Jyoti a passionate and dedicated developer on an exciting journey in the world of programming. As a self-taught enthusiast, I've been honing my skills and exploring various programming languages and technologies. My love for web development and software engineering drives me to create exceptional user experiences and solve complex challenges.
+ 
+##💻 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Desktop Applications: C++
+- Version Control: Git
+- Deployment:  Netlify, GitHub Pages
 
-<!--
-**Lazy-Ishu/Lazy-Ishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Current Focus
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on expanding my knowledge in web development and exploring the realm of artificial intelligence and machine learning. I believe that these fields hold immense potential for solving real-world problems and making a positive impact.
