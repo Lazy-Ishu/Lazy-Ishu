@@ -1,7 +1,7 @@
 # Namaste! 🙏
  I'm Jyoti a passionate and dedicated developer on an exciting journey in the world of programming. As a self-taught enthusiast, I've been honing my skills and exploring various programming languages and technologies. My love for web development and software engineering drives me to create exceptional user experiences and solve complex challenges.
  
-##💻Tech Stack
+## 💻 Tech Stack
 - Frontend: React, HTML, CSS, JavaScript
 - Desktop Applications: C++
 - Version Control: Git
